@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /* 
-Массив из строчек в обратном порядке
+Задача: Массив из строчек в обратном порядке
 */
 
 public class Solution {
