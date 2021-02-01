@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /* 
-Задача: Массив из строчек в обратном порядке
+Задача: Создать массив из 10 строк. Ввести 8 имен с клавиатуры и вывести их в обратном порядке.
 */
 
 public class Solution {
