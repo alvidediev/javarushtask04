@@ -1,6 +1,9 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+/* 
+Ввести с клавиатуры три числа и вывести среднее их них.
+*/
 
 public class Main {
     public static void main(String[] args) throws Exception {
