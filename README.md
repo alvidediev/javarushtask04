@@ -1,3 +1,3 @@
-# javarushtask04
+# Задачи с Javarush
 
 task1 <>
